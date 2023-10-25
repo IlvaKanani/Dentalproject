@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\PROJECT\\PROJECT.csproj": {}
+    "C:\\Users\\User\\Desktop\\Dent\\PROJECT\\PROJECT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\MVC_2.BLL.csproj": {
+    "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\MVC_2.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\MVC_2.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\MVC_2.BLL.csproj",
         "projectName": "MVC_2.BLL",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\MVC_2.BLL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\MVC_2.BLL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\MVC_2.DAL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\MVC_2.DAL.csproj"
+              "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\MVC_2.DAL.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\MVC_2.DAL.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\MVC_2.DAL.csproj": {
+    "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\MVC_2.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\MVC_2.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\MVC_2.DAL.csproj",
         "projectName": "MVC_2.DAL",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\MVC_2.DAL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\MVC_2.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.DAL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\PROJECT\\PROJECT.csproj": {
+    "C:\\Users\\User\\Desktop\\Dent\\PROJECT\\PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\PROJECT\\PROJECT.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Dent\\PROJECT\\PROJECT.csproj",
         "projectName": "PROJECT",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\PROJECT\\PROJECT.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Dent\\PROJECT\\PROJECT.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\PROJECT\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Dent\\PROJECT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\MVC_2.BLL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\yjet-23\\IlvaKanani\\MVC_2.BLL\\MVC_2.BLL.csproj"
+              "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\MVC_2.BLL.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Dent\\MVC_2.BLL\\MVC_2.BLL.csproj"
               }
             }
           }
